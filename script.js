@@ -166,7 +166,7 @@ const moveHands = () => {
 
 moveHands()
 
-updateData = () => {
+const updateData = () => {
   handData = generateHandData(getTimeDigits())
 }
 
