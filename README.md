@@ -7,5 +7,5 @@ The implementation uses multiple basic concepts of D3 such as [Nested Selections
 
 Check it out on [blocks](https://bl.ocks.org/oezguensi/72742344c90b515d80984d3422c44597).
 
-# Exmample
+# Animation
 ![example](https://github.com/oezguensi/MAD-Clock/blob/master/animation.gif)
